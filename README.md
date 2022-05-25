@@ -13,4 +13,4 @@ I have a great interest in developing things and always eager to learn new stuff
 [![Shreyas' GitHub stats](https://github-readme-stats.vercel.app/api?username=shreyasbhagwat&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/shreyasbhagwat/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasbhagwat&layout=compact&theme=calm)](https://github.com/shreyasbhagwat/github-readme-stats)
 
-
+![snake gif](https://github.com/ShreyasBhagwat/Actions/blob/output/github-contribution-grid-snake.svg)
