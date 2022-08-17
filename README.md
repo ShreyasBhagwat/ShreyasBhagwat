@@ -1,7 +1,7 @@
 
 
 ## Hey! I'm Shreyas Bhagwat. 👋
-A prefinal student pursuing Btech (Computer Science and Engineering) from Vellore Institute of Technology.
+A final student pursuing Btech (Computer Science and Engineering) from Vellore Institute of Technology.
 
 Java is the language I love to code in. Due to my inclination towards java, I developed an interest in Android development too and have been working and practicing in the same.
 I have a great interest in developing things and always eager to learn new stuff.
